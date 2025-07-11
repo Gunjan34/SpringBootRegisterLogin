@@ -38,8 +38,8 @@ A simple Java web application built using **Spring Boot**, **Spring Data JPA**, 
 
 ### 1️⃣ Clone the Project
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Gunjan34/SpringBootRegisterLogin.git
+cd <SpringBootRegisterLogin>
 2️⃣ Create a MySQL Database
 sql
 
